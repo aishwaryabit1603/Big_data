@@ -6,3 +6,4 @@
 5. 5th march 2024 - Lab Assignment 5 - seaborn and plotly
 6. 2nd april 2024 - Lab Assignment 6 - Clustering Kmeans
 7. 9th april 2024 - Lab Assignment 7 - Linear Regression on salary.csv dataset
+8. 16th april 2024 - Lab Assignment 8 - Multiple Linear Regression
